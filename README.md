@@ -4,12 +4,12 @@
 
 > Not: Bu sistem bizzat benim tarafımdan kodlanmıştır rastgele sistemi ise başka bir github repo'su tarafından alıntıdır, onun ve benim telif haklarına göre parayla satılamaz insanlara "ben yaptım, kendim kodladım, satın aladım" gibi ifadeler kullanılamaz!
 >
->[Bahsettiğim Repo](https://github.com/gco360/anime-character-random)
+> [Bahsettiğim Repo](https://github.com/gco360/anime-character-random)
 > 
 > Not: verileri tek bir siteden çektiği için sistem yavaştır.
 >
 > 'localhost:3000/api/ranime' Bağlantısıyla sistemi kullanabilirsiniz.
->
+> Eğer bunu yayınlayabilceğiniz bir host yoksa https://www.midordas.xyz/api/ranime bağlantısından kullanabilirsiniz.
 > Hata veya sorunuz olursa: sıkıldım#0666
 
 
