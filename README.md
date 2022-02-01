@@ -9,7 +9,9 @@
 > Not: verileri tek bir siteden çektiği için sistem yavaştır.
 >
 > 'localhost:3000/api/ranime' Bağlantısıyla sistemi kullanabilirsiniz.
+> 
 > Eğer bunu yayınlayabilceğiniz bir host yoksa https://www.midordas.xyz/api/ranime bağlantısından kullanabilirsiniz.
+> 
 > Hata veya sorunuz olursa: sıkıldım#0666
 
 
